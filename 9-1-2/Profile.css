@@ -4,10 +4,3 @@ p {
     font-size: 1.25rem;
     border: 2px solid yellow;
     }
-
-p .ptype {
-    padding: 1rem;
-    border-radius: .65rem;
-    font-size: 1.25rem;
-    border: 1px solid blue;
-}
